@@ -1,1 +1,1 @@
-# GitIo dla Projektu na PWA: https://github.com/sobotapl/bezpieczneGotowanie
+# GitIo dla Projektu na PWA: https://github.com/sobotapl/bezpieczneGotowanieAPP
